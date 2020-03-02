@@ -12,7 +12,7 @@ For building and running the application you need:
 
 Running the application locally.
 
-- Ensure that JDK 1.8 is install in your machine
+- Ensure that JDK 1.8 is installed in your machine
 - Maven 3
 
 - Open command prompt from your machine
