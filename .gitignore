@@ -1,2 +1,3 @@
 # Project exclude paths
 /target/
+git config --global http.proxy http[s]://LungeloQ:Lungsta@2020@proxy1.saps.gov.za:8080
